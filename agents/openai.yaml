@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintainer PR Review Lite"
+  short_description: "Review project fit, evidence, and actionable defects"
+  default_prompt: "Use $gh-review-lite to review this PR for project fit and supported defects, with precise diff anchors and an honest validation summary."
